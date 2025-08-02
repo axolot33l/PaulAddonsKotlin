@@ -9,7 +9,7 @@ pluginManagement {
         maven("https://repo.spongepowered.org/maven/")
         maven("https://repo.polyfrost.cc/releases")
         maven("https://maven.essential.gg/releases/")
-        maven("https://repo.sk1er.club/repository/maven-public/") // keep this last
+        maven("https://repo.sk1er.club/repository/maven-releases/")
     }
     resolutionStrategy {
         eachPlugin {
